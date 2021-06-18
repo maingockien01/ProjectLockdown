@@ -4,3 +4,4 @@
  */
 
 export * from './datasetentries';
+export * from './environment/environment.module';
